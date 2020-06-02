@@ -1,3 +1,4 @@
+https://codepen.io/galosandoval/pen/ExPxVJd
  1. What is Semantic HTML? 
  Semantic HTML are descriptive tags
 
